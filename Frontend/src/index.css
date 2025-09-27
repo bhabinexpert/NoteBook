@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
-/* Enable DaisyUI (Tailwind v4 syntax) */
-@plugin "daisyui";
+/* Enable DaisyUI and configure themes (Tailwind v4 syntax) */
+@plugin "daisyui" {
+	/* From docs: https://daisyui.com/docs/themes/ */
+	themes: light --default, dark --prefersdark, cupcake, retro, forest;
+}
+
 
