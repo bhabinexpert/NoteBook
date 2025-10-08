@@ -1,9 +1,8 @@
-import React from "react";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router";
 import { ArrowLeftIcon } from "lucide-react";
 import toast from "react-hot-toast";
-import axios from "axios";
+import api from "../lib/axios";
 
 function CreateNotes() {
   const [title, setTitle] = useState("");
@@ -20,7 +19,7 @@ function CreateNotes() {
     }
     setLoading(true);
     try {
-      await axios.post("http://localhost:8080/api/notes", {
+      await api.post("/notes", {
         title,
         content
       })
