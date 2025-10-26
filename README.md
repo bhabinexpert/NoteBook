@@ -1,6 +1,6 @@
 # NoteBook
 
-![NoteBook Screenshot Placeholder](<img width="2879" height="1635" alt="image" src="https://github.com/user-attachments/assets/5bd72e78-9ffb-467f-bd60-96c62af6ad19" />
+(<img width="2879" height="1635" alt="image" src="https://github.com/user-attachments/assets/5bd72e78-9ffb-467f-bd60-96c62af6ad19" />
 )
 
 
