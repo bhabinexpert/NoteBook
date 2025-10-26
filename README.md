@@ -1,9 +1,10 @@
 # NoteBook
 
-![NoteBook Screenshot Placeholder](docs/screenshot-placeholder.png)
-> Replace the image above with a recent UI screenshot.
+![NoteBook Screenshot Placeholder](<img width="2879" height="1635" alt="image" src="https://github.com/user-attachments/assets/5bd72e78-9ffb-467f-bd60-96c62af6ad19" />
+)
 
-A simple MERN-style note-taking app that BSc students can use, study, and extend. Notes can be created, viewed, edited, and deleted through a React frontend backed by an Express/MongoDB API.
+
+A simple MERN project were we can keep our notes. Notes can be created, viewed, edited, and deleted through a React frontend backed by an Express/MongoDB API.
 
 ## Features
 - Create, edit, and delete notes
